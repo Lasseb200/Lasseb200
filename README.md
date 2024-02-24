@@ -11,7 +11,7 @@
 - 🎧 Jamming to beats while coding - check out what's currently playing below 👇
 
 <!-- Spotify Now Playing -->
-[![Spotify](https://img.shields.io/badge/Spotify-Listen%20to%20Axel%20F-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/search/crazy%20frog)
+[![Spotify]](https://open.spotify.com/search/crazy%20frog)
 
 <!-- Skills -->
 ### 🚀 My Superpowers:
