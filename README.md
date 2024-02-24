@@ -12,7 +12,7 @@
 
 <!-- Skills -->
 ### 🤓 Skills:
-- 🚀 Languages: Matlab, TI-Nspire, Danish, Fr*nch and more!
+- 🚀 Languages: Matlab, TI-Nspire, Calculator app, Danish, Fr*nch and more!
 - 🧠 Genius-level Problem Solving
 - 💎 [Platinium 1 #EUW](https://www.leagueofgraphs.com/summoner/euw/gKOphelia-EUW)
 
