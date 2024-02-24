@@ -24,7 +24,7 @@
 
 <!-- Random Quote -->
 ### 📜 Random Dev Quote:
-> "Im is a genius." - Lester Green
+> "Workers of the world unite; you have nothing to lose but your chains." - Karl M.
 
 <!-- Footer -->
 <p align="center">
