@@ -18,7 +18,8 @@
 
 <!-- Connect with Me -->
 ### 🌐 Let's Connect:
-- 📧 Email me: your.email@example.com
+- 📠 Fax: 291891238
+- 💨 Steam: [ඩ](https://steamcommunity.com/profiles/76561198164934203)
 - 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 - 🌐 Portfolio: [Your Portfolio](https://your-portfolio-url.com)
 
@@ -27,7 +28,7 @@
 
 <!-- Random Quote -->
 ### 📜 Random Dev Quote:
-> "The best error message is the one that never shows up." - Thomas Fuchs
+> "Im is a genius." - Lester Green
 
 <!-- Footer -->
 <p align="center">
