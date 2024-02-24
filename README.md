@@ -1,17 +1,17 @@
 <!-- Your Introduction -->
-# Yo, it's [Your Name]! 👋
+# Yo, it's Lasse! 👋
 
 <!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
 
 <!-- Dynamic Content -->
 ### 🔥 What I'm Up To:
-- 📚 Studying the art of code at [Your University/School] 🚀
-- 💼 Working on top-secret projects that'll change the world 🌐
+- 📚 Studying the art of physics at Aalborg University 🚀
+- 💼 Working on top-secret projects that'll change the world 🌐 (its true)
 - 🎧 Jamming to beats while coding - check out what's currently playing below 👇
 
 <!-- Spotify Now Playing -->
-![Spotify](https://novatorem.vercel.app/api/spotify)
+![Spotify](https://novatorem.vercel.app/api/spotify?theme=default&style=default&count=default&v=2&raw=true&title_color=000000&width=300)
 
 <!-- Skills -->
 ### 🚀 My Superpowers:
