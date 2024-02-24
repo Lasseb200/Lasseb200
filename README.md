@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello, I'm [Your Name] 👋
 
-<!--
-**Lasseb200/Lasseb200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a [Your Profession] based in [Your Location]. I love coding and creating innovative solutions.
 
-Here are some ideas to get you started:
+## 🎮 Snake Game
+I've created a fun little snake game. Check it out here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Languages: `JavaScript`, `Python`, `HTML/CSS`
+- Frameworks: `React`, `Node.js`, `Express.js`
+- Databases: `MongoDB`, `PostgreSQL`
+
+## 📫 Get in touch
+- Twitter: twitter.com/yourusername
+- LinkedIn: linkedin.com/in/yourusername
