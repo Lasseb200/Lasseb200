@@ -11,7 +11,7 @@
 - 🎧 Jamming to beats while coding - check out what's currently playing below 👇
 
 <!-- Spotify Now Playing -->
-![Spotify](https://open.spotify.com/search/crazy%20frog)
+[![Axel F by Crazy Frog](https://en.wikipedia.org/wiki/Crazy_Hits#/media/File:Crazy_Frog_-_Crazy_Frog_Presents_Crazy_Hits_CD_cover.jpg)](link-to-your-spotify)
 
 <!-- Skills -->
 ### 🚀 My Superpowers:
