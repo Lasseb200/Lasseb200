@@ -20,8 +20,7 @@
 ### 🌐 Let's Connect:
 - 📠 Fax: 291891238
 - 💨 Steam: [ඩ](https://steamcommunity.com/profiles/76561198164934203)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- 🌐 Portfolio: [Your Portfolio](https://your-portfolio-url.com)
+- 🐦 Twitter: [@LasseBruun2](https://twitter.com/LasseBruun2)
 
 <!-- Coding Activity Graph -->
 ![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=your-username&layout=compact&custom_title=Coding%20Activity&theme=radical)
