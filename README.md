@@ -14,9 +14,7 @@
 ### 🚀 Skills: 🤓
 - 🚀 Languages: Matlab, TI-Nspire, Danish, Fr*nch and more!
 - 🧠 Genius-level Problem Solving
-- 💎 [Platinium 1](https://www.leagueofgraphs.com/summoner/euw/gKOphelia-EUW)
-- 🌐 Web Development Maestro: HTML, CSS, React, Node.js
-- 🛠️ DevOps Demigod: Docker, Kubernetes
+- 💎 [Platinium 1 #EUW](https://www.leagueofgraphs.com/summoner/euw/gKOphelia-EUW)
 
 <!-- Connect with Me -->
 ### 🌐 Let's Connect:
