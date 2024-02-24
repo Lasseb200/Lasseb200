@@ -13,15 +13,10 @@
 <!-- Skills -->
 ### 🚀 Skills: 🤓
 - 🚀 Languages: Matlab, TI-Nspire, Danish, Fr*nch and more!
-- 🧠 Genius-level Problem Solving 
+- 🧠 Genius-level Problem Solving
+- 💎 [Platinium 1](https://www.leagueofgraphs.com/summoner/euw/gKOphelia-EUW)
 - 🌐 Web Development Maestro: HTML, CSS, React, Node.js
 - 🛠️ DevOps Demigod: Docker, Kubernetes
-
-<!-- Projects -->
-### 🌟 Featured Projects:
-1. [Project One](link-to-project-one) - The one that started it all!
-2. [Project Two](link-to-project-two) - Breaking boundaries with innovation!
-3. [Project Three](link-to-project-three) - A masterpiece in the making!
 
 <!-- Connect with Me -->
 ### 🌐 Let's Connect:
@@ -31,9 +26,6 @@
 
 <!-- Coding Activity Graph -->
 ![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=your-username&layout=compact&custom_title=Coding%20Activity&theme=radical)
-
-![Epic Coder](https://img.shields.io/badge/Epic-Coder%20🚀-purple?style=for-the-badge)
-
 
 <!-- Random Quote -->
 ### 📜 Random Dev Quote:
