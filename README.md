@@ -22,9 +22,6 @@
 - 💨 Steam: [ඩ](https://steamcommunity.com/profiles/76561198164934203)
 - 🐦 Twitter: [@LasseBruun2](https://twitter.com/LasseBruun2)
 
-<!-- Coding Activity Graph -->
-![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=your-username&layout=compact&custom_title=Coding%20Activity&theme=radical)
-
 <!-- Random Quote -->
 ### 📜 Random Dev Quote:
 > "Im is a genius." - Lester Green
