@@ -1,9 +1,6 @@
 <!-- Your Introduction -->
 # Yo, it's Lasse! 👋
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
-
 <!-- Dynamic Content -->
 ### 🔥 What I'm Up To:
 - 📚 Studying the art of physics at Aalborg University 🚀
@@ -14,9 +11,9 @@
 [![Axel F by Crazy Frog](https://github.com/Lasseb200/Lasseb200/blob/main/Crazy_Frog_-_Crazy_Frog_Presents_Crazy_Hits_CD_cover.jpg)](https://open.spotify.com/album/7thm8f9No6n1Q9NBKQO1b5)
 
 <!-- Skills -->
-### 🚀 My Superpowers:
-- 🚀 Super Coding Skills: Python, JavaScript, Java, and more!
-- 🧠 Genius-level Problem Solving
+### 🚀 Skills: 🤓
+- 🚀 Languages: Matlab, TI-Nspire, Danish, Fr*nch and more!
+- 🧠 Genius-level Problem Solving 
 - 🌐 Web Development Maestro: HTML, CSS, React, Node.js
 - 🛠️ DevOps Demigod: Docker, Kubernetes
 
@@ -34,6 +31,9 @@
 
 <!-- Coding Activity Graph -->
 ![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=your-username&layout=compact&custom_title=Coding%20Activity&theme=radical)
+
+![Epic Coder](https://img.shields.io/badge/Epic-Coder%20🚀-purple?style=for-the-badge)
+
 
 <!-- Random Quote -->
 ### 📜 Random Dev Quote:
