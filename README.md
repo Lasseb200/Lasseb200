@@ -11,7 +11,7 @@
 [![Axel F by Crazy Frog](https://github.com/Lasseb200/Lasseb200/blob/main/Crazy_Frog_-_Crazy_Frog_Presents_Crazy_Hits_CD_cover.jpg)](https://open.spotify.com/album/7thm8f9No6n1Q9NBKQO1b5)
 
 <!-- Skills -->
-### 🚀 Skills: 🤓
+### 🤓 Skills:
 - 🚀 Languages: Matlab, TI-Nspire, Danish, Fr*nch and more!
 - 🧠 Genius-level Problem Solving
 - 💎 [Platinium 1 #EUW](https://www.leagueofgraphs.com/summoner/euw/gKOphelia-EUW)
