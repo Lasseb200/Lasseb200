@@ -13,6 +13,20 @@
 
 https://open.spotify.com/track/06yyE5zi6trHSLGGsvkkO3?si=c9328fcecb47411b&_horizontal=false
 
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Website Title</title>
+</head>
+<body>
+
+  <!-- Paste the Spotify Embed Code here -->
+  <iframe src="https://open.spotify.com/embed/track/your-track-id" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+</body>
+</html>
+
 <!-- Skills -->
 ### 🤓 Skills:
 - 🚀 Languages: Matlab, TI-Nspire, Danish, Fr*nch and more!
