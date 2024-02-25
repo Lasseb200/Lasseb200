@@ -9,7 +9,7 @@
 <!-- Spotify Now Playing -->
 <div style="left: 0; width: 100%; height: 80px; position: relative;"><iframe src="https://open.spotify.com/embed/track/06yyE5zi6trHSLGGsvkkO3?utm_source=oembed" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture;"></iframe></div>
 
-[![Axel F by Crazy Frog](https://github.com/Lasseb200/Lasseb200/blob/main/Crazy_Frog_-_Crazy_Frog_Presents_Crazy_Hits_CD_cover.jpg)]([https://open.spotify.com/album/7thm8f9No6n1Q9NBKQO1b5](https://open.spotify.com/embed/track/06yyE5zi6trHSLGGsvkkO3?utm_source=oembed))
+[![Axel F by Crazy Frog](https://github.com/Lasseb200/Lasseb200/blob/main/Crazy_Frog_-_Crazy_Frog_Presents_Crazy_Hits_CD_cover.jpg)](https://open.spotify.com/track/06yyE5zi6trHSLGGsvkkO3?si=c9328fcecb47411b)
 
 <!-- Skills -->
 ### 🤓 Skills:
