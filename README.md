@@ -3,7 +3,6 @@
 
 <!-- Dynamic Content -->
 ### 🔥 What I'm Up To:
-- 🏫 Unraveling the mysteries of the universe at Aalborg University 🚀
 - 💼 Working on top-secret projects that'll change the world 🌐 (its true)
 - 🎧 Jamming to beats while coding - check out what's currently playing below 👇
 
