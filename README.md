@@ -5,14 +5,7 @@
 ### 🔥 What I'm Up To:
 - 💼 Working on top-secret projects that'll change the world 🌐 (its true)
 - 🎧 Jamming to beats while coding - check out what's currently playing below 👇
-
-<!-- Spotify Now Playing -->
-<div style="left: 0; width: 100%; height: 80px; position: relative;"><iframe src="https://open.spotify.com/embed/track/06yyE5zi6trHSLGGsvkkO3?utm_source=oembed" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture;"></iframe></div>
-
 [![Axel F by Crazy Frog](https://github.com/Lasseb200/Lasseb200/blob/main/Crazy_Frog_-_Crazy_Frog_Presents_Crazy_Hits_CD_cover.jpg)](https://open.spotify.com/track/06yyE5zi6trHSLGGsvkkO3?si=c9328fcecb47411b)
-
-```html
-<iframe src="https://open.spotify.com/embed/track/your-track-id" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <!-- Skills -->
 ### 🤓 Skills:
