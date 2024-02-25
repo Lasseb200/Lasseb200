@@ -11,12 +11,8 @@
 
 [![Axel F by Crazy Frog](https://github.com/Lasseb200/Lasseb200/blob/main/Crazy_Frog_-_Crazy_Frog_Presents_Crazy_Hits_CD_cover.jpg)](https://open.spotify.com/track/06yyE5zi6trHSLGGsvkkO3?si=c9328fcecb47411b)
 
-https://open.spotify.com/track/06yyE5zi6trHSLGGsvkkO3?si=c9328fcecb47411b&_horizontal=false
-
-
-  <!-- Paste the Spotify Embed Code here -->
-  <iframe src="https://open.spotify.com/track/06yyE5zi6trHSLGGsvkkO3?si=c9328fcecb47411b&nd=1&dlsi=0c01b943deb440f1" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
+```html
+<iframe src="https://open.spotify.com/embed/track/your-track-id" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <!-- Skills -->
 ### 🤓 Skills:
