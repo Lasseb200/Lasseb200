@@ -11,6 +11,8 @@
 
 [![Axel F by Crazy Frog](https://github.com/Lasseb200/Lasseb200/blob/main/Crazy_Frog_-_Crazy_Frog_Presents_Crazy_Hits_CD_cover.jpg)](https://open.spotify.com/track/06yyE5zi6trHSLGGsvkkO3?si=c9328fcecb47411b)
 
+https://open.spotify.com/track/06yyE5zi6trHSLGGsvkkO3?si=c9328fcecb47411b&_horizontal=false
+
 <!-- Skills -->
 ### 🤓 Skills:
 - 🚀 Languages: Matlab, TI-Nspire, Danish, Fr*nch and more!
