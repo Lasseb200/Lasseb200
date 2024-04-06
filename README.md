@@ -12,7 +12,7 @@
 ### 🤓 Skills:
 - 🚀 Languages: Matlab, TI-Nspire, Danish, Fr*nch and more!
 - 🧠 Genius-level Problem Solving
-- 💎 [Emarald IV #EUW](https://www.leagueofgraphs.com/summoner/euw/gKOphelia-EUW)
+- 💎 [Emerald IV #EUW](https://www.leagueofgraphs.com/summoner/euw/gKOphelia-EUW)
 
 <!-- Connect with Me -->
 ### 🌐 Let's Connect:
