@@ -9,7 +9,7 @@
 [![Axel F by Crazy Frog](https://github.com/Lasseb200/Lasseb200/blob/main/ringding.PNG)](https://open.spotify.com/track/06yyE5zi6trHSLGGsvkkO3?si=c9328fcecb47411b)
 
 <!-- Skills -->
-### 🤓 Skills:
+### 🤓 Skills:🐱‍💻
 - 🚀 Languages: Matlab, TI-Nspire, Danish, Fr*nch and more!
 - 🧠 Genius-level Problem Solving
 - 💎 [Emerald IV #EUW](https://www.leagueofgraphs.com/summoner/euw/gKOphelia-EUW)
