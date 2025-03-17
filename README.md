@@ -10,7 +10,7 @@
 
 <!-- Skills -->
 ### 🤓 Skills:
-- 🚀 Languages: Matlab, TI-Nspire, Danish, Fr*nch and more!
+- 🚀 Languages: Matlab, TI-Nspire, Danish, Fren🥐h and more!
 - 🧠 Genius-level Problem Solving
 - 💎 [Emerald IV #EUW](https://www.leagueofgraphs.com/summoner/euw/gKOphelia-EUW)
 - 🎨 [GeoGebra artist](https://www.geogebra.org/u/lasseb200)
