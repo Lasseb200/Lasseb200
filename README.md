@@ -13,6 +13,7 @@
 - 🚀 Languages: Matlab, TI-Nspire, Danish, Fr*nch and more!
 - 🧠 Genius-level Problem Solving
 - 💎 [Emerald IV #EUW](https://www.leagueofgraphs.com/summoner/euw/gKOphelia-EUW)
+- 🏞🛣🏕🛤🏜🌃🌅🌆🌇🎨🖼[Geogebra artist](https://www.geogebra.org/u/lasseb200)
 
 <!-- Connect with Me -->
 ### 🌐 Let's Connect:
