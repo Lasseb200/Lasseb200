@@ -9,11 +9,6 @@
 [![Axel F by Crazy Frog](https://github.com/Lasseb200/Lasseb200/blob/main/ringding.PNG)](https://open.spotify.com/track/06yyE5zi6trHSLGGsvkkO3?si=c9328fcecb47411b)
 
 <!-- Skills -->
-<p align="center">
-  <marquee behavior="alternate" scrollamount="5" style="color: #00FF00; font-family: monospace; font-size: 20px; font-weight: bold;">
-    📊 SKILLS 📊 SKILLS 📊 SKILLS 📊 SKILLS 📊 SKILLS 📊
-  </marquee>
-</p>
 ### 🤓 Skills:
 - 🚀 Languages: Matlab, TI-Nspire, Danish, Fr*nch and more!
 - 🧠 Genius-level Problem Solving
