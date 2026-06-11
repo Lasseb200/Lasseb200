@@ -1,7 +1,7 @@
 <!-- Your Introduction -->
 # Yo, it's Lasse! 👋
 
-![snake gif](https://github.com/Lasseb200/Lasseb200/blob/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/Lasseb200/Lasseb200/blob/output/github-contribution-grid-snake.svg)
 <!-- Dynamic Content -->
 ### 🔥 What I'm Up To:
 - 💼 Working on top-secret projects that'll change the world 🌐 (its true)
