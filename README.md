@@ -13,6 +13,7 @@
 - 🚀 Languages: Matlab, TI-Nspire, Danish, Fr*nch and more!
 - 🧠 Genius-level Problem Solving
 - 💎 [Emerald IV #EUW](https://www.leagueofgraphs.com/summoner/euw/gKOphelia-EUW)
+- 🤺 [99 Slayer](https://secure.runescape.com/m=hiscore_oldschool/hiscorepersonal.ws?user1=lbruun)
 
 <!-- Connect with Me -->
 ### 🌐 Let's Connect:
